@@ -1,0 +1,26 @@
+
+.articleContainer {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  font-family: Georgia, serif;
+  background-color: #ffffff;
+  color: #333;
+}
+.hero {
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+.comment {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
+.comment img {
+  border-radius: 50%;
+}
+.comment div {
+  flex: 1;
+}

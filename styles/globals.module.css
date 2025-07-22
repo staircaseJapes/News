@@ -1,0 +1,27 @@
+
+.container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  max-width: 800px;
+  margin: auto;
+}
+.subhead {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+.articleList {
+  list-style: none;
+  padding: 0;
+}
+.articleList li {
+  margin: 0.75rem 0;
+}
+.articleList a {
+  text-decoration: none;
+  color: #0070f3;
+}
+.articleList a:hover {
+  text-decoration: underline;
+}
